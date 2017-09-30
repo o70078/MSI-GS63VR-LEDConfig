@@ -1,0 +1,14 @@
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\bin\MSIConfig.exe.config
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\bin\MSIConfig.exe
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\bin\MSIConfig.pdb
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MSIConfig.csprojResolveAssemblyReference.cache
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MainWindow.g.cs
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\App.g.cs
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MSIConfig_MarkupCompile.cache
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MSIConfig_MarkupCompile.lref
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MainWindow.baml
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MSIConfig.g.resources
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MSIConfig.Properties.Resources.resources
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MSIConfig.csproj.GenerateResource.Cache
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MSIConfig.exe
+C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MSIConfig.pdb
