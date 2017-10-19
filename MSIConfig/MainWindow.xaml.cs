@@ -123,11 +123,25 @@ namespace MSIConfig
 			}
 		}
 
+		/// <summary>
+		/// 鼠标指向
+		/// </summary>
+		private void Type4()
+		{
+			Random R = new Random((int)DateTime.Now.Ticks);
+			while (true)
+			{
+				LE.SetLEDColor(LedEdit.BoardPartition.ALL,ColorPickerManager.GetColor(System.Windows.Forms.Cursor.Position.X, System.Windows.Forms.Cursor.Position.Y));
+				Thread.Sleep(500);
+			}
+		}
+
+
 		private void Grid_Loaded(object sender, RoutedEventArgs e)
 		{
 			LE.STD_Normal_Mode();
 			LE.SetLEDColor(LedEdit.BoardPartition.ALL, Colors.Black);
-			Task.Factory.StartNew(Type2);
+			Task.Factory.StartNew(Type4);
 			CTS = new CancellationTokenSource();
 			Task.Factory.StartNew(TestQQ, CTS);
 			//Thread[] Ts = (from ProcessThread t in Process.GetCurrentProcess().Threads select t).ToArray();

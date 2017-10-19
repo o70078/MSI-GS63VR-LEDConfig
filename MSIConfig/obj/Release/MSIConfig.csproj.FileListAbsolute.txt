@@ -12,3 +12,4 @@ C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Rele
 C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MSIConfig.csproj.GenerateResource.Cache
 C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MSIConfig.exe
 C:\Users\asml\Documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MSIConfig.pdb
+C:\Users\asml\documents\visual studio 2017\Projects\MSIConfig\MSIConfig\obj\Release\MSIConfig.csproj.CoreCompileInputs.cache
